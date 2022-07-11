@@ -8,7 +8,7 @@ This Project was the first assignment for my Coding bootcamp through the UCLA ex
 
 user can find the deployed app at [https://3enhobson.github.io/challenge-1-horiseon/] 
     
-    ![Challenge-1-horiseon_Screenshot](assets/images/Screenshot.png)
+    ![Challenge-1-horiseon_Screenshot](assets/images/Screenshot.jpg)
     
     
 ## Credits
