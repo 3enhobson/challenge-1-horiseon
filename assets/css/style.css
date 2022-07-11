@@ -1,3 +1,5 @@
+/* I reduced clutter in the CSS file by condensing the code with similar ID's that used the same CSS */
+
 * {
     box-sizing: border-box;
     padding: 0;
